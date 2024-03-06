@@ -1,4 +1,3 @@
-# React + Vite
 # BloggApp
 
 BloggApp is a web application built using React and Tailwind CSS for the frontend, Redux Toolkit for state management, and TinyMCE for text editing capabilities. It includes user authentication functionalities.
@@ -23,6 +22,8 @@ Check out the live demo of BloggApp: [BloggApp Live Demo](https://luminous-pasca
 - **Responsive Design:** Responsive UI design for a seamless experience across devices.
 
 
+
+# React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
